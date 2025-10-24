@@ -138,4 +138,110 @@
   <div class="container">
     <h1>Book Your Movie Tickets</h1>
     <div class="movies">
-
+ <!-- Movie 1: pushpa-->
+  <div class="movie-card">
+    <div class="movie-poster">
+      <img src="C:\Users\heman\Desktop\vamsi\image.jpg"/>
+    </div>
+    <div class="movie-info">
+      <div class="movie-title">pushpa</div>
+      <div class="movie-desc">
+        A gripping thriller exploring identity and justice. Experience the captivating story in theaters near you.
+      </div>
+      <div class="theatres">
+        Available at theatres in Madanapalle:
+        <ul>
+          <li><strong>Ravi Theatre</strong></li>
+          <li><strong>Sri Krishna Cinema Hall</strong></li>
+          <li><strong>Siddartha Theatre</strong></li>
+        </ul>
+      </div>
+      <button class="book-btn" onclick="alert('Booking for pushpa coming soon!')">Book Now</button>
+    </div>
+  </div>
+  <!-- Movie 2: 18 pages-->
+  <div class="movie-card">
+    <div class="movie-poster">
+      <img src= />
+    </div>
+    <div class="movie-info">
+      <div class="movie-title">18 pages</div>
+      <div class="movie-desc">
+        A heartwarming tale of hope, dreams, and the beauty of the future. Coming soon to your city.
+      </div>
+      <div class="theatres">
+        Available at theatres in Madanapalle:
+        <ul>
+          <li><strong>Ravi Theatre</strong></li>
+          <li><strong>Sri Krishna Cinema Hall</strong></li>
+          <li><strong>Siddartha Theatre</strong></li>
+        </ul>
+      </div>
+      <button class="book-btn" onclick="alert('Your Ticket Was Successfully Booked')">Book Now</button>
+    </div>
+  </div>
+</div>  <!-- Movie 3:ms dhoni -->
+  <div class="movie-card">
+    <div class="movie-poster">
+      <img src="C:\Users\heman\Desktop\vamsi\image.jpg"/>
+    </div>
+    <div class="movie-info">
+      <div class="movie-title">ms dhoni</div>
+      <div class="movie-desc">
+        A gripping thriller exploring identity and justice. Experience the captivating story in theaters near you.
+      </div>
+      <div class="theatres">
+        Available at theatres in Madanapalle:
+        <ul>
+          <li><strong>Ravi Theatre</strong></li>
+          <li><strong>Sri Krishna Cinema Hall</strong></li>
+          <li><strong>Siddartha Theatre</strong></li>
+        </ul>
+      </div>
+      <button class="book-btn" onclick="alert('Booking for MS dhoni coming soon!')">Book Now</button>
+    </div>
+  </div>
+  <!-- Movie 2: 18 pages-->
+  <div class="movie-card">
+    <div class="movie-poster">
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Mirai_kantara_poster.jpg" alt="Mirai Kantara Poster" />
+    </div>
+    <div class="movie-info">
+      <div class="movie-title">18 pages</div>
+      <div class="movie-desc">
+        A heartwarming tale of hope, dreams, and the beauty of the future. Coming soon to your city.
+      </div>
+      <div class="theatres">
+        Available at theatres in Madanapalle:
+        <ul>
+          <li><strong>Ravi Theatre</strong></li>
+          <li><strong>Sri Krishna Cinema Hall</strong></li>
+          <li><strong>Siddartha Theatre</strong></li>
+        </ul>
+      </div>
+      <button class="book-btn" onclick="alert('Your Ticket Was Successfully Booked')">Book Now</button>
+    </div>
+  </div>
+</div>
+  <!-- Movie 4: joe-->
+  <div class="movie-card">
+    <div class="movie-poster">
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Mirai_kantara_poster.jpg" alt="Mirai Kantara Poster" />
+    </div>
+    <div class="movie-info">
+      <div class="movie-title">joe</div>
+      <div class="movie-desc">
+        A heartwarming tale of hope, dreams, and the beauty of the future. Coming soon to your city.
+      </div>
+      <div class="theatres">
+        Available at theatres in Madanapalle:
+        <ul>
+          <li><strong>Ravi Theatre</strong></li>
+          <li><strong>Sri Krishna Cinema Hall</strong></li>
+          <li><strong>Siddartha Theatre</strong></li>
+        </ul>
+      </div>
+      <button class="book-btn" onclick="alert('Your Ticket Was Successfully Booked')">Book Now</button>
+    </div>
+  </div>
+</div>
